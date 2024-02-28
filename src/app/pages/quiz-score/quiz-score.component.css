@@ -1,0 +1,10 @@
+td{
+    border: 2px solid rgb(94, 94, 94);
+    padding: 12px;
+}
+button{
+    background-color: blue;
+    border-radius: 5px;
+    padding: 8px 15px;
+    color: white;
+}
